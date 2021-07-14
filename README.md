@@ -11,10 +11,16 @@ e da própria programação, quando me deparei com este projeto proposto pela ga
 ## Diferenças para meu projeto:
   - Organização e Documentação
   - Implementação de níveis
+
+## Passos para rodar o projeto:
+  + Fazer download do material
+  + Juntar todos arquivos em uma única página
+  + Abri - lá em sua IDE e executar o arquivo Main
   
 ## Alterações futuras: 
   + Interface
   + Interface para niveis
   + Escolha de Personagens
 
-  
+
+
