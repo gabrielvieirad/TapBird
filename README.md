@@ -15,12 +15,12 @@ e da própria programação, quando me deparei com este projeto proposto pela ga
 ## Passos para rodar o projeto:
   + Fazer download do material
   + Juntar todos arquivos em uma única página
-  + Abri - lá em sua IDE e executar o arquivo Main (Não é mais necessário)
+  + <strike>Abri - lá em sua IDE e executar o arquivo Main (Não é mais necessário)</strike>
   + Execute em sua IDE o script "interface.py"
     - OBS. Pode haver problemas de adptabilidade ao tamanho de sua tela
   
 ## Alterações futuras: 
-  + Interface (Adicionado)
+  + <strike>Interface (Adicionado)</strike>
   + Interface para niveis
   + Escolha de Personagens
 
