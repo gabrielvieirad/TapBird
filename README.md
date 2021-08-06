@@ -18,7 +18,7 @@ e da própria programação, quando me deparei com este projeto proposto pela ga
   + Abri - lá em sua IDE e executar o arquivo Main
   
 ## Alterações futuras: 
-  + Interface
+  + Interface (Adicionado)
   + Interface para niveis
   + Escolha de Personagens
 
