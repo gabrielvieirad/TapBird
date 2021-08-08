@@ -3,6 +3,7 @@
 - Python OO
 - Pygame
 - Os
+- Tkinter
 
 Projeto feito com intuito de estudos, tendo base e inspiração no canal - [Hashtag Programação](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)
 
